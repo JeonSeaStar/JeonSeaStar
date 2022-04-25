@@ -13,11 +13,21 @@
   
 </div>
 
-#
+<div align="center">
+ 
+# 🎖️
+ 
+ </div>
+ 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeseong22)](https://solved.ac/haeseong22)
 
-#
+<div align="center">
+ 
+# 🎖️
+ 
+ </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonSeaStar&show_icons=true&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSeaStar&layout=white)
 
