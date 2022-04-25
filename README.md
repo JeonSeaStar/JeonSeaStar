@@ -14,6 +14,7 @@ _________________________________________________________
 
 _________________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonSeaStar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSeaStar&layout=compact)](https://github.com/JeonSeaStar/github-readme-stats)
 
 <!--
 **JeonSeaStar/JeonSeaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
