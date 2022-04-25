@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSeaStar&layout=white)
 
 #
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://www.youtube.com/channel/UCGkNysQAW3zRVXq1NwyeHsA)]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCGkNysQAW3zRVXq1NwyeHsA)
 
 <!--
 **JeonSeaStar/JeonSeaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
