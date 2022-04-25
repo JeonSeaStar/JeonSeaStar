@@ -4,10 +4,7 @@
   src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
+  src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"
 />
 
 <!--
