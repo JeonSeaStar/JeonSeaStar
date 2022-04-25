@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeaStar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
 
-____________________________________________________________________
+____________________________________________________
 <div align="center">
   
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
