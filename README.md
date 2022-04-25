@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/haeseong22)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrnjs913)](https://solved.ac/haeseong22)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonSeaStar&show_icons=true&theme=radical)
 
