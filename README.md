@@ -3,6 +3,12 @@
 <img
   src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
 />
+<img
+  src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C#&logoColor=white"
+/>
 
 <!--
 **JeonSeaStar/JeonSeaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
