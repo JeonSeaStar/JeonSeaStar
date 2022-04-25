@@ -3,7 +3,7 @@
 #
 <div align="center">
  
-# Tech Stack
+# Tech Stack🚩
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -16,8 +16,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeseong22)](https://solved.ac/haeseong22)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonSeaStar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSeaStar&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonSeaStar&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSeaStar&layout=white)
 
 <!--
 **JeonSeaStar/JeonSeaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
