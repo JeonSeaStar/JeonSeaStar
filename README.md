@@ -10,7 +10,9 @@
 </div>
 
 <div align="center">
+  
 Tech Stack
+  
 </div>
 #
 [![Solved.ac
